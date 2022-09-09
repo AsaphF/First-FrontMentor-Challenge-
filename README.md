@@ -1,4 +1,4 @@
-# First-FrontMentor-Challenge-
+# FrontMentor-Challenge-
  1. Card Product Component
 
 
